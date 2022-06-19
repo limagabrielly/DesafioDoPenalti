@@ -1,7 +1,5 @@
 # DesafioDoPenalti
 
-Desafio do Pênalti:
-
 ====Descrição====
 
 Criar um sistema, em janela console, que mostra se o jogador faz o gol ou não.
