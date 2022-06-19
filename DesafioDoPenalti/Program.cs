@@ -10,7 +10,7 @@ namespace DesafioDoPenalti
 
             var listaDeJogadores = new List<Jogador>();
 
-            var jogador1 = new Jogador(TiposDeJogadores.Lateral);
+            var jogador1 = new Jogador(TiposDeJogadores.Atacante);
             var jogador2 = new Jogador(TiposDeJogadores.Lateral);
             var jogador3 = new Jogador(TiposDeJogadores.Lateral);
             var jogador4 = new Jogador(TiposDeJogadores.Lateral);
